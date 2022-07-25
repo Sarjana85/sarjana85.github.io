@@ -1545,11 +1545,11 @@ pre code {
 }
  .info i {
   font-size: 20px;
-  color: #fac213;
+  color: #fff;
   float: left;
   width: 44px;
   height: 44px;
-  background: #495057;
+  background: #fac213;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -1590,12 +1590,12 @@ pre code {
   margin-right: 10px;
 }
 .info .social-links a:hover {
-  background: #fac213;
-  color: #fff;
+  background: #495057;
+  color: #fac213;
 }
 .info .email:hover i, .info .address:hover i, .info .phone:hover i {
-  background: #fac213;
-  color: #fff;
+  background: #495057;
+  color: #fac213;
 }
 
 /* dsadhasdhasdh */
